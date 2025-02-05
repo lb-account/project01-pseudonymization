@@ -5,7 +5,9 @@ In today's data-driven world, protecting personal information is vital for priva
 
 ## 📂 Contents  
 - **data_pseudonymization.ipynb** – a jupyter notebook covering the concepts and definitions of pseudonymisation  
-- **pseudonymise_your_data.py** – a streamlit script for easy pseudonymisation of data  
+- **pseudonymise_your_data.py** – a streamlit script to easily pseudonymise your data via a user interface
+→ once the folder has been cloned and the libraries installed, run the following command :
+`streamlit run C:/replace by your directory/project01-pseudonymization/pseudonymise_your_data.py`
 
 ## 📚 Libraries  
 This project uses the following Python libraries:  

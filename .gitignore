@@ -401,4 +401,4 @@ FodyWeavers.xsd
 
 .venv
 
-.ipycheckpoint
+.ipynb_checkpoints
